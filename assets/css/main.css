@@ -28,6 +28,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+img {
+	border-radius: 10%;
+}
+
 body {
 	line-height: 1;
 }
